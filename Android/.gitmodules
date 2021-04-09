@@ -1,0 +1,3 @@
+[submodule "app/src/main/assets/Currency"]
+	path = app/src/main/assets/Currency
+	url = https://gitlab.sogeticloudservices.com/sogeti-mobile/coin-counter/currency.git

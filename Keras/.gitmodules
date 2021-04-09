@@ -1,0 +1,3 @@
+[submodule "Images"]
+	path = Images
+url=https://gitlab.sogeticloudservices.com/sogeti-mobile/coin-counter/images.git

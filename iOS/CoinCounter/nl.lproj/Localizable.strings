@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  CoinCounter
+
+  Created by Wilhelm Thieme on 11/08/2019.
+  Copyright © 2019 Sogeti Nederland B.V. All rights reserved.
+*/
+"settings" = "Instellingen";
+"cameraAuthrorisationAlertMessage" = "CoinCounter heeft toegang nodig tot de camera om muntent te herkennen.";
+
+"imagesZipFile" = "Fotos";
+
+"officialLabel" = "Officiële valuta in";
+"acceptedLabel" = "Ook geaccepteerd in";
+
+"EUROfficial" = "België, Duitsland, Finland, Frankrijk, Ierland, Italië, Luxemburg, Nederland, Oostenrijk, Portugal, Spanje, Griekenland, Slovenië, Cyprus, Malta, Slowakije, Estland, Letland, en Litouwen";
+"EURAccepted" = "Monaco, San Marino, Vaticaanstad, Andorra, Kosovo en Montenegro";
+
+"USDOfficial" = "Verenigde Staten, Ecuador, El Salvador, Marshalleilanden, Micronesia, Oost-Timor en Palau";
+"USDAccepted" = "Bonaire, Saba, Sint Eustatius, het Brits Indische Oceaanterritorium, de Britse Maagdeneilanden, de Turks- en Caicoseilanden, de Amerikaanse Maagdeneilanden, Amerikaans-Samoa, Guam, de Noordelijke Marianen, Puerto Rico en de kleine afgelegen eilanden van de Verenigde Staten";
+
+"AUDOfficial" = "Australië";
+"AUDAccepted" = "Christmaseiland, Tuvalu, Nauru en Kiribati";
+
+"NZDOfficial" = "Nieuw-Zeeland";
+"NZDAccepted" = "Cookeilanden, Niue, Tokelau en Pitcairneilanden";

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "995256680568",
+    "firebase_url": "https://wjthieme-194221.firebaseio.com",
+    "project_id": "wjthieme-194221",
+    "storage_bucket": "wjthieme-194221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995256680568:android:cd76a303f7a051c4",
+        "android_client_info": {
+          "package_name": "com.sogeti.CoinCounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995256680568-8v1l99rjs2n5hfm44bukch25nmafe1ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmG07AEy1ZjjSJtYx8sdwQaCIb_QcdFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995256680568-8v1l99rjs2n5hfm44bukch25nmafe1ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995256680568:android:d6e7e2701cc875ab",
+        "android_client_info": {
+          "package_name": "nl.minez.dictu.APPAI"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995256680568-8v1l99rjs2n5hfm44bukch25nmafe1ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmG07AEy1ZjjSJtYx8sdwQaCIb_QcdFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995256680568-8v1l99rjs2n5hfm44bukch25nmafe1ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
